@@ -1,0 +1,58 @@
+body {
+  background-image: linear-gradient(
+    to bottom,
+    #882626,
+    #8c264d,
+    #7e3671,
+    #5d4a8c,
+    #215a98
+  );
+  border-color:transparent;
+  display:grid;
+  grid-auto-rows: auto 1fr auto;
+}
+h1 {
+  font-family: Brush Script MT;
+  letter-spacing: 5px;
+  font-size: 60px;
+  text-align: center;
+  width: auto;
+  height: auto;
+  background-image: linear-gradient(
+    to right top,
+    #eeadad,
+    #d18b93,
+    #b46b7c,
+    #964b67,
+    #772d54,
+    #652654,
+    #522153,
+    #3d1d51,
+    #2d2a5a,
+    #1a335f,
+    #063b60,
+    #00425d
+  );
+  border-radius: 10%;
+  color #F5F5F5;
+}
+#img-caption{
+ font: italic 2.0em "Fira Sans", serif;
+}
+#tribute-info{
+font: italic 1.3em "Fira Sans", serif;
+text-align: center;
+line-height: 2.0;
+border-style: solid;
+}
+#img-div {
+  text-align: center;
+}
+#image {
+  max-width: 100%;
+  height: auto;
+}
+#tribute-link-css{
+  font-family: "Lucida Console", Courier, monospace;
+  text-align: center;
+}
